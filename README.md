@@ -1,0 +1,2 @@
+# Flix
+ Movie scrolling APP
